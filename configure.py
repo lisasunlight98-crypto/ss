@@ -2446,7 +2446,7 @@ config.libs = [
     Rel(Matching, "d_a_obj_clearness_wall", "REL/d/a/obj/d_a_obj_clearness_wall.cpp"),
     Rel(NonMatching, "d_a_obj_clef", "REL/d/a/obj/d_a_obj_clef.cpp"),
     Rel(Matching, "d_a_obj_cloud_dive", "REL/d/a/obj/d_a_obj_cloud_dive.cpp"),
-    Rel(NonMatching, "d_a_obj_col", "REL/d/a/obj/d_a_obj_col.cpp"),
+    Rel(Matching, "d_a_obj_col", "REL/d/a/obj/d_a_obj_col.cpp"),
     Rel(NonMatching, "d_a_obj_control_panel", "REL/d/a/obj/d_a_obj_control_panel.cpp"),
     Rel(NonMatching, "d_a_obj_cumul_cloud", "REL/d/a/obj/d_a_obj_cumul_cloud.cpp"),
     Rel(NonMatching, "d_a_obj_D300", "REL/d/a/obj/d_a_obj_D300.cpp"),
